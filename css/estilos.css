@@ -22,10 +22,10 @@ a {
 	color: black;
 }
 .volver {
-	height: 105px;
-    width: 60px;
-    margin-top: 446px;
-    margin-left: 1228px;
+	height: auto;
+    width: 4.5%;
+    margin-top: 34.4154%;
+    margin-left: 94.42%;
 }
 .fondoEgg {
 	background: url('../media/metal-gear.jpg');
@@ -225,3 +225,4 @@ a {
 
 .repos .bitbucket { background: #022763; }
 .repos .GitHub { background: #1c1c1c; }
+.repos .linkedin { background: #0d6c7c; }
