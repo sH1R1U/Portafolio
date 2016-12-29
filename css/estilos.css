@@ -17,16 +17,30 @@ a {
 	text-decoration: none;
 	color: #55acee;
 }
+
+.esp {
+	width: 100%;
+	max-width: 32px;
+}
+
+.eng {
+	width: 100%;
+	max-width: 32px;
+	margin-top: 0px;
+}
+
 .code {
 	font-size: 10px;
 	color: black;
 }
+
 .volver {
 	height: auto;
     width: 4.5%;
     margin-top: 34.4154%;
     margin-left: 94.42%;
 }
+
 .fondoEgg {
 	background: url('../media/metal-gear.jpg');
 	background-size: 100% 100%;
@@ -34,6 +48,7 @@ a {
 	font-family:'Roboto Slab',Sans-serif, Arial, Helvetica;
 	background-repeat: no-repeat;
 }
+
 .contenedor {
 	width: 90%;
 	max-width: 700px;
